@@ -1,6 +1,19 @@
 #include <iostream>
 
+using std::cin, std::cout;
+
 int main() {
-  std::cout << "Hello, World!" << std::endl;
+  int num, last;
+  cin >> last;
+  while (cin >> num) {
+    if (num > last) {
+      last = num;
+    } else {
+      cout << "NO";
+      return 0;
+    }
+  }
+
+  cout << "YES";
   return 0;
 }

@@ -1,4 +1,4 @@
-# Install script for directory: C:/programming/ClionProjects/Yandex_Algorithms/Algorithms_1.0/Lesson_2
+# Install script for directory: C:/Programming/C++/Yandex_Algorithms/Algorithms_1.0/Lesson_2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/programming/ClionProjects/Yandex_Algorithms/Algorithms_1.0/Lesson_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Programming/C++/Yandex_Algorithms/Algorithms_1.0/Lesson_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
