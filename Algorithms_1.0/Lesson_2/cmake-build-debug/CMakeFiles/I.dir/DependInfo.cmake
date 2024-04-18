@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Programming/C++/Yandex_Algorithms/Algorithms_1.0/Lesson_2/I.cpp" "CMakeFiles/I.dir/I.cpp.obj" "gcc" "CMakeFiles/I.dir/I.cpp.obj.d"
+  "C:/programming/ClionProjects/Yandex_Algorithms/Algorithms_1.0/Lesson_2/I.cpp" "CMakeFiles/I.dir/I.cpp.obj" "gcc" "CMakeFiles/I.dir/I.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
