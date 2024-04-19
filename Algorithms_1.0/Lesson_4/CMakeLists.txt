@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.27)
+project(Lesson_4)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(A ../Lesson_4/A.cpp)
+add_executable(B ../Lesson_4/B.cpp)
+add_executable(C ../Lesson_4/C.cpp)
+add_executable(D ../Lesson_4/D.cpp)
+add_executable(E ../Lesson_4/E.cpp)
+add_executable(F ../Lesson_4/F.cpp)
+add_executable(G ../Lesson_4/G.cpp)
+add_executable(H ../Lesson_4/H.cpp)
+add_executable(I ../Lesson_4/I.cpp)
+add_executable(J ../Lesson_4/J.cpp)
