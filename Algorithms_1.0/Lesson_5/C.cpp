@@ -30,7 +30,7 @@ void solve() {
     cin >> x >> y;
     if (x < y) {
       cout << pref[y - 1].first - pref[x - 1].first << '\n';
-    } else if (x > y){
+    } else if (x > y) {
       cout << abs(pref[y - 1].second - pref[x - 1].second) << '\n';
     } else {
       cout << 0 << '\n';

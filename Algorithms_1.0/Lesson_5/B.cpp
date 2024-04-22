@@ -8,7 +8,7 @@ void solve() {
   int n, k;
   cin >> n >> k;
   vector<long long> arr(n), pref(n + 1);
-  for(int i = 0; i < n; ++i) {
+  for (int i = 0; i < n; ++i) {
     cin >> arr[i];
     pref[i + 1] = pref[i] + arr[i];
   }
